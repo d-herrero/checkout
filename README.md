@@ -1,0 +1,1 @@
+Simple Ruby checkout process. So simple that doesn't need any further explanation.
